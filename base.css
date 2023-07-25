@@ -24,16 +24,16 @@ body {
     padding: 10px 20px 0px;
     }
 
-ul {
+.ul {
         border: 1px solid #555;
       }
       
-li {
+.li {
         text-align: center;
         border-bottom: 1px solid #555;
       }
       
-li:last-child {
+.li:last-child {
         border-bottom: none;
       }
 
